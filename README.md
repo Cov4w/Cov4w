@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 2025 SW전문인재양성 과정
 ### 2025-03-17
+#### 내 프로필 웹 페이지 만들기
+[🔗 프로젝트 보기]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://cov4w.github.io/2025_AI_web01/)
 
 ## Team Project
 
