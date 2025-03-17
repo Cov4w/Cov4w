@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 2025 SW전문인재양성 과정
 ### 2025-03-17
 #### - [내 프로필 웹 페이지 만들기](https://cov4w.github.io/2025_AI_web01/)
-#### - [가상환경 구축 후 chatGPT를 이용해 주소록 만들기]
+#### - [가상환경 구축 후 chatGPT를 이용해 주소록 만들기](https://github.com/Cov4w/installationPython)
 
 
 ## Team Project
