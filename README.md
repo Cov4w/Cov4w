@@ -1,4 +1,4 @@
-## Hi there 👋
+## 우송대학교 AI빅데이터학과 최승균입니다. 👋
 
 <!--
 **Cov4w/Cov4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
