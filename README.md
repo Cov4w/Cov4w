@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 ## Team Project
 
 ## Self Study/Project
+#### - [프로젝트 아이디어]
