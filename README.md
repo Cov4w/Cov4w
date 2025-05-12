@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 2025-03-17
 #### - [내 프로필 웹 페이지 만들기](https://cov4w.github.io/2025_AI_web01/)
 #### - [개발환경 구축 후 chatGPT를 이용해 주소록 만들기](https://github.com/Cov4w/installationPython)
+#### - [pyQT로 ui와 카메라 사용, YOLOv8 모델을 이용해 주차장 분석 프로그램 만들기](https://github.com/Cov4w/pyQT_yolo)
 
 
 ## Team Project
