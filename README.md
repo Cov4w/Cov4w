@@ -5,7 +5,7 @@
 ### AI & Software Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;Connecting+AI+Models+to+Real-World+Systems;Machine+Learning+%C2%B7+Backend+Systems+%C2%B7+Robotics+%26+Edge+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;Connecting+AI+Models+to+Real-World+Systems;Machine+Learning+%C2%B7+Backend+Systems+%C2%B7+Robotics+%26+Edge+Vision" alt="Typing SVG" />
 </p>
 
 **머신러닝 모델과 백엔드 아키텍처, 그리고 실제 디바이스를 하나의 소프트웨어 시스템으로 연결합니다.**
@@ -42,6 +42,7 @@
 ## 주요 프로젝트
 
 ### 1. ChurnGuard — 고객 이탈 예측 및 모델 평가 시스템 `[Prototype]`
+
 **저장소:** [bitTask-ChurnGuard (ML API 서버)](https://github.com/Cov4w/bitTask-ChurnGuard) · [bitTask-Churnguard-Client (WPF 클라이언트)](https://github.com/Cov4w/bitTask-Churnguard-Client)
 
 - **목적:** 고객 이탈 예측을 위한 데이터 전처리·모델 학습·성능 비교를 클라이언트-서버 구조로 통합하여, 고객 유지 전략 수립으로 확장 가능한 ML 평가 워크플로우를 구축했습니다.
@@ -55,6 +56,7 @@
 ---
 
 ### 2. THE BOOK ARCHIVE — AI 기반 도서 쇼핑 데스크톱 애플리케이션 `[Team Project]`
+
 **저장소:** [bit-midtermProject](https://github.com/Cov4w/bit-midtermProject)
 
 - **목적:** 명확한 클라이언트-서버 아키텍처 위에서 도서 검색·구매 및 관리자 기능을 제공하고, LLM을 결합해 도서 요약과 맞춤형 독서 성향 분석을 지원하는 데스크톱 애플리케이션을 구현했습니다.
@@ -68,6 +70,7 @@
 ---
 
 ### 3. Unitree Go2 순찰 및 WebRTC 원격 제어 시스템 `[Team Prototype · v0.1.0]`
+
 **저장소:** [nCAGE (패키지화 버전)](https://github.com/Cov4w/nCAGE) · [cage-unitree-project (팀 작업 저장소)](https://github.com/Cov4w/cage-unitree-project)
 
 - **목적:** 사족보행 로봇 **Unitree Go2**를 활용한 자율 순찰 팀 프로젝트(ROS2 SLAM/Navigation 연구 병행)에서, 웹 기반 실시간 모니터링·원격 제어 및 비전 이상 탐지 파이프라인을 담당해 구현했습니다.
@@ -81,6 +84,7 @@
 ---
 
 ### 4. 자가 진화형 암호화폐 자동매매 시스템 `[Personal System]`
+
 **저장소:** [upbit-auto-trading-bot](https://github.com/Cov4w/upbit-auto-trading-bot)
 
 - **목적:** 머신러닝 기반 매매 시그널 생성, 실시간 포지션 모니터링, 자동 리스크 관리 및 백테스팅을 하나의 풀스택 플랫폼으로 통합했습니다.
@@ -94,6 +98,7 @@
 ---
 
 ### 5. 머신러닝 · 딥러닝 학습 및 구현 아카이브 `[Study & Implementation Archive]`
+
 **저장소:** [bit-MachineLearning-study](https://github.com/Cov4w/bit-MachineLearning-study)
 
 - **목적:** 고전 머신러닝부터 심층 신경망까지 핵심 이론 정리와 재현 가능한 구현 코드를 함께 축적하는 기술 아카이브입니다.
