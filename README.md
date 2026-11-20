@@ -129,7 +129,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cov4w&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&border_color=30363D" alt="Cov4w Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/Cov4w" alt="Cov4w GitHub Contribution Chart" />
 </p>
 
 </div>
