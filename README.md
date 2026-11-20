@@ -133,10 +133,6 @@
   <img src="https://streak-stats.demolab.com?user=Cov4w&theme=github-dark-blue&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Cov4w GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://ghchart.rshah.org/39d353/Cov4w" alt="Cov4w GitHub Contribution Chart" />
-</p>
-
 </div>
 
 ---
