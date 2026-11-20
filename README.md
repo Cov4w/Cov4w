@@ -5,7 +5,7 @@
 ### AI & Software Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39d353&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;Connecting+AI+Models+to+Real-World+Systems;Machine+Learning+%C2%B7+Backend+Systems+%C2%B7+Robotics+%26+Edge+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;Connecting+AI+Models+to+Real-World+Systems;Machine+Learning+%C2%B7+Backend+Systems+%C2%B7+Robotics+%26+Edge+Vision" alt="Typing SVG" />
 </p>
 
 **머신러닝 모델과 백엔드 아키텍처, 그리고 실제 디바이스를 하나의 소프트웨어 시스템으로 연결합니다.**
@@ -134,7 +134,7 @@
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/58A6FF/Cov4w" alt="Cov4w GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/39d353/Cov4w" alt="Cov4w GitHub Contribution Chart" />
 </p>
 
 </div>
